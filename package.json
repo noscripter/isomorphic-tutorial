@@ -27,7 +27,7 @@
     "jquery-browserify": "~1.8.1",
     "node-jsx": "^0.12.4",
     "react": "^0.12.2",
-    "superagent": "^0.21.0",
+    "superagent": "^2.0.0",
     "underscore": "^1.7.0"
   },
   "devDependencies": {
